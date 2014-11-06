@@ -16,13 +16,13 @@ Our Objective
 •Meeting global needs on internet
 
 Who can participate? 
-
+===================
 Any volunteer who is passionate about spreading their knowledge in educating people can participate in this program. If you want to take part in this program please register yourself for this program
 
 Link: http://goo.gl/forms/77Au1K7tnN
 
 What are we going to teach? 
-
+==========================
 *Who are we? *About INFA program. *Introducing the platform called Internet. *Telling them the global impact of internet and also show them the different uses of internet. *Introducing about Open source. *Hands-on experience on all our tools.
 
 Note: Material is yet to be prepared, If you are interested in documenting the material please register yourself.
@@ -36,10 +36,12 @@ If you had already conducted any such event please let us know about yours:
 Your blogs can be submitted in the link provided below Link: http://goo.gl/forms/W7HrrTfZQu
 
 Events 
+======
 •Kidzilla - http://moznik.wordpress.com/about/ (Nikhil and Team)
-•Internetforall - http://yomanpatil.tumblr.com/post/95841073579/internetforeveryone (Mayur and Team)
+•Internetforall 
 •Ganesh Festival Maker Party - http://prathameshpchavan.blogspot.in/2014/09/ganesh-festival-maker-party-in-pune_6.html (Prathamesh)
 
-Materials 
+Materials
+=========
 •Internet(Hindi) - http://www.slideshare.net/yomanpatil (Mayur patil)
 •Webmaker resources - https://webmaker.org/%3F/resources
