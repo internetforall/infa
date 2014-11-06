@@ -12,6 +12,7 @@ Why are we doing this?
 To create awareness of web in public in rural areas.
 
 Our Objective 
+=============
 •Spreading Internet knowledge across the world.
 •Meeting global needs on internet
 
