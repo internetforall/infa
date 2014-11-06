@@ -3,6 +3,7 @@ infa
 
 Just a small thought to reach people in rural areas globally by educating them with internet and web resources. Our main motive is to spread internet knowledge globally to educate people who are not aware of internet and its resources.
 Introduction: 
+============
 
 Internet is one of the growing sector across the world which helps people to connect virtually across the globe to spread resources but there are many people who do not know much about Internet and also web resources. We people work for the betterment of the web and now it’s time for us to become educators to reach and teach people about internet/web resources in rural areas (According to this program rural area defines the area at people who are not aware of internet or web resources) by conducting campaigns/events/Maker party etc.., and lets together bring growth in web users.
 
