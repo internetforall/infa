@@ -13,8 +13,8 @@ To create awareness of web in public in rural areas.
 
 Our Objective 
 =============
-•Spreading Internet knowledge across the world
-•Meeting global needs on internet
+* Spreading Internet knowledge across the world
+* Meeting global needs on internet
 
 Who can participate? 
 ===================
@@ -24,7 +24,12 @@ Link: http://goo.gl/forms/77Au1K7tnN
 
 What are we going to teach? 
 ==========================
-*Who are we? *About INFA program. *Introducing the platform called Internet. *Telling them the global impact of internet and also show them the different uses of internet. *Introducing about Open source. *Hands-on experience on all our tools.
+* Who are we? 
+* About INFA program. 
+* Introducing the platform called Internet. 
+* Telling them the global impact of internet and also show them the different uses of internet. 
+* Introducing about Open source. 
+* Hands-on experience on all our tools.
 
 Note: Material is yet to be prepared, If you are interested in documenting the material please register yourself.
 
