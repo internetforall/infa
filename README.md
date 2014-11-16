@@ -38,11 +38,11 @@ Your blogs can be submitted in the link provided below Link: http://goo.gl/forms
 
 Events 
 ======
-•Kidzilla - http://moznik.wordpress.com/about/ (Nikhil and Team)
-•Internetforall 
-•Ganesh Festival Maker Party - http://prathameshpchavan.blogspot.in/2014/09/ganesh-festival-maker-party-in-pune_6.html (Prathamesh)
+* Kidzilla - http://moznik.wordpress.com/about/ (Nikhil and Team)
+* Internetforall 
+* Ganesh Festival Maker Party - http://prathameshpchavan.blogspot.in/2014/09/ganesh-festival-maker-party-in-pune_6.html (Prathamesh)
 
 Materials
 =========
-•Internet(Hindi) - http://www.slideshare.net/yomanpatil (Mayur patil)
-•Webmaker resources - https://webmaker.org/%3F/resources
+* Internet(Hindi) - http://www.slideshare.net/yomanpatil (Mayur patil)
+* Webmaker resources - https://webmaker.org/%3F/resources
